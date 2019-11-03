@@ -1,0 +1,8 @@
+cat
+dog
+dog
+dog
+cat
+dog
+dog
+horse
